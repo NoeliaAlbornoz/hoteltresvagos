@@ -1,1 +1,1 @@
-WEB API. Proyecto Spring Boot. Hotel Tres Vagos es un sistema de gestión de hotelería que incluye ABM de huéspedes y reservas. También se incorporó la posibilidad de consultar reportes.
+WEB API. Proyecto Spring Boot. Hotel Tres Vagos es un sistema de gestión de hotelería que incluye ABM de huéspedes y reservas. También se incorporó la posibilidad de consultar reportes. Se conectó a una base de datos MYSQL. Se utilizó Postman para probar la WEB API. Se agregaron archivos html y css en la carpeta resources/static para inicializar un frontend que se conecte a la web api.
